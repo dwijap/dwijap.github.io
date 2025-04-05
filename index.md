@@ -8,11 +8,15 @@ layout: default
 
 <img class="profile-picture" src="website_prof_pic.png">
 
-Hi! I'm a computational linguist with interests in multilingual and low-resource NLP. I'm currently a Master's student in Computational Linguistics at the University of Washington. My Master's thesis is on Adapting Multilingual Large Language Models for Under-resourced Languages, supervised by Prof. Shane Steinert-Threlkeld. 
 
-In the past, I've worked at NVIDIA as a Gen AI Engineer developing synthetic data generation and data annotation pipelines. I've also interned at Hewlett Packard Data Science Institute through the [Pharis Fellowship](https://uh.edu/honors/Programs-Minors/co-curricular-programs/data-and-community-health/data-society/summer-research.php) where I worked on modeling cancer patient pathways. 
+Hi, I'm Dwija!
+I'm a graduate student in Computational Linguistics at the University of Washington, where I work on adapting multilingual large language models for under-resourced languages under the guidance of Prof. Shane Steinert-Threlkeld.
 
-I did my undergrad at the University of Houston majoring in Computer Science and Math with a concentration in Data Science. I worked with Professor [Thamar Solorio](http://solorio.uh.edu/) at the [RiTUAL](https://ritual.uh.edu/) (Research in Text Understanding and Analysis of Language) lab. I've also had the good fortune of spending a summer as a recipient of the SURF scholarship. 
+My research interests lie at the intersection of multilingual NLP and low-resource language technologies. I'm passionate about making language technologies more linguistically informed and accessible. 
+
+Previously, I worked as a Generative AI Engineer at NVIDIA, developing synthetic data generation and annotation pipelines. I also interned at the Hewlett Packard Data Science Institute as a [Pharis Fellow](https://uh.edu/honors/Programs-Minors/co-curricular-programs/data-and-community-health/data-society/summer-research.php), modeling cancer patient pathways using machine learning techniques.
+
+I did my undergrad at the University of Houston, where I majored in Computer Science and Mathematics with a concentration in Data Science. There, I was part of the [RiTUAL](https://ritual.uh.edu/) (Research in Text Understanding and Analysis of Language) led by Prof. [Thamar Solorio](http://solorio.uh.edu/) and was a recipient of the SURF (Summer Undergraduate Research Fellowship) scholarship.
 
 ### Contact Me
 

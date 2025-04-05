@@ -1,9 +1,9 @@
 ## Publications 
 
 #### Targeted Multilingual Adaptation for Low-resource Language Families, EMNLP Findings 2024, C.M. Downey, Terra Blevins, Dhwani Serai, Dwija Parikh, Shane Steinert-Threlkeld
-• Adapted XLM-R for low-resource language families, improving performance and accuracy on POS tagging & dependency parsing
+* Adapted XLM-R for low-resource language families, improving performance and accuracy on POS tagging & dependency parsing
 through targeted multilingual training strategies and evaluated hyperparameters to enhance performance across 15+ languages
-• Identified key hyperparameters through regression analysis, establishing best practices for up-sampling low-resource languages
+* Identified key hyperparameters through regression analysis, establishing best practices for up-sampling low-resource languages
 without compromising high-resource language performance
 
 #### Normalization and Back-transliteration for Code-Switched Text, CALCS (NAACL 2021), Dwija Parikh and Thamar Solorio  
